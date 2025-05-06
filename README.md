@@ -70,14 +70,20 @@ Apps com RASP (pra diversão ser garantida)
 [!] Não me responsabilizo por uso indevido.
 [!] Teste com ética. Hack com consciência.
 
+---
+
 👾 Autor
 Bruno Moreira
 github.com/brunomoreira
 Pentester • Mobile Offsec • Red Team Ops
 
+---
+
 🧬 Contribua
 Encontrou uma técnica nova de detecção? Um bypass ainda mais insano?
 Faça um PR ou abra uma issue. A comunidade agradece.
+
+---
 
 🧨 Hack the planet...
 

@@ -57,6 +57,7 @@ frida -U -n com.exemplo.app -l frida-ultimate-evasion.js --no-pause
 ```
 ⚠️ Use --no-pause para aplicar os hooks antes que os guards despertem.
 
+
 🧠 Requisitos
 
 Frida >= 16.x

@@ -1,4 +1,4 @@
-# 🧨 frida-ultimate-evasion.js
+# 🧨 Scrpt Frida-ultimate-evasion
 
 > 🎭 **Furtivo. Letal. Invisível.**  
 > Um script Frida para derrubar RASP como Arxan, Promon e DexGuard, feito pra quem joga no hard mode.

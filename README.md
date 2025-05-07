@@ -58,10 +58,9 @@ frida -U -n com.exemplo.app -l frida-ultimate-evasion.js --no-pause
 ⚠️ Use --no-pause para aplicar os hooks antes que os guards despertem.
 
 🧠 Requisitos
+
 Frida >= 16.x
-
 Acesso root, VM ou emulador
-
 Apps com RASP (pra diversão ser garantida)
 
 ☠️ Disclaimer
@@ -73,6 +72,7 @@ Apps com RASP (pra diversão ser garantida)
 ---
 
 👾 Autor
+
 Bruno Moreira
 github.com/brunomoreira
 Pentester • Mobile Offsec • Red Team Ops
@@ -80,6 +80,7 @@ Pentester • Mobile Offsec • Red Team Ops
 ---
 
 🧬 Contribua
+
 Encontrou uma técnica nova de detecção? Um bypass ainda mais insano?
 Faça um PR ou abra uma issue. A comunidade agradece.
 
